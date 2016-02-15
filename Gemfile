@@ -38,6 +38,10 @@ gem 'spring',        group: :development
 # gem 'capistrano-rails', group: :development
 
 # Use debugger
+<<<<<<< Updated upstream
 # gem 'debugger', group: [:development, :test]
 
 
+=======
+# gem 'debugger', group: [:development, :test]
+>>>>>>> Stashed changes
